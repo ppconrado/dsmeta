@@ -10,14 +10,14 @@
 
 ## Ajuste no arquivo pom.xml:
 
-### <plugin>
+###<plugin>
 
-### <groupId>org.apache.maven.plugins</groupId>
+###<groupId>org.apache.maven.plugins</groupId>
 
-### <artifactId>maven-resources-plugin</artifactId>
+###<artifactId>maven-resources-plugin</artifactId>
 
-### <version>3.1.0</version><!--$NO-MVN-MAN-VER$ -->
+###<version>3.1.0</version><!--$NO-MVN-MAN-VER$ -->
 
-### </plugin>
+###</plugin>
 
 ### Botão direito no projeto -> Maven -> Update project (force update)
