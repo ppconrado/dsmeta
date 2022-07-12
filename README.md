@@ -25,6 +25,8 @@ https://www.figma.com/file/EN1zFtk4eY3Jgmpgi9YaMG/DSMeta1
 
 ## Passo: criar projeto ReactJS
 
+![DevSuperior no Instagram](https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/pastas-dsmeta.png)
+
 ```
 yarn create vite frontend --template react-ts
 ```
