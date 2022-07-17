@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/54ad8945-97e6-40c3-abc2-7a2b07bc62da/deploy-status)](https://app.netlify.com/sites/dsmeta-joseconrado/deploys)
+
 ## Objetivos do projeto FASE 1
 
 > _FASE 1_
