@@ -1,4 +1,6 @@
-## Objetivos do projeto fase 1
+## Objetivos do projeto FASE 1
+
+> _FASE 1_
 
 - Criar projetos backend e frontend
 - Salvar os projeto no Github em monorepo
@@ -98,26 +100,15 @@ Para criar uma data de X dias atrás:
 const date = new Date(new Date().setDate(new Date().getDate() - 365));
 ```
 
-# ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - Episódio 2
+## Objetivos do projeto FASE 2
 
-> _Crie um app completo para seu portfólio com as tecnologias mais demandadas do mercado_
-
-## Realização
-
-[DevSuperior - Escola de programação](https://devsuperior.com.br)
-
-[![DevSuperior no Instagram](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/ig-icon.png)](https://instagram.com/devsuperior.ig)
-[![DevSuperior no Youtube](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/yt-icon.png)](https://youtube.com/devsuperior)
-
-## Objetivos do projeto para esta aula
+> _FASE 2_
 
 - Implementar o back end
 - Acesso a banco de dados
 - Criar endpoints da API REST
 - Integração com SMS
 - Implantação na nuvem
-
-## AVISO: as aulas ficarão disponíveis somente até domingo às 23h59
 
 ## Checklist
 
@@ -411,16 +402,12 @@ git remote -v
 git subtree push --prefix backend heroku main
 ```
 
-# ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - Episódio 3
+## Objetivos do projeto FASE 3
 
-> _Crie um app completo para seu portfólio com as tecnologias mais demandadas do mercado_
-
-## Objetivos do projeto para esta aula
+> _FASE 3_
 
 - Integrar back end e front end
 - Implantar o front end
-
-## AVISO: as aulas ficarão disponíveis somente até domingo às 23h59
 
 # Checklist
 
