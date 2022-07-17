@@ -1,3 +1,7 @@
+# DSMeta - WEB App Filtro vendas e envio de SMS
+
+![ppconrado github img](https://raw.githubusercontent.com/ppconrado/bds-assets/master/img/DSMETA.png)
+
 ## Objetivos do projeto FASE 1
 
 > _FASE 1_
