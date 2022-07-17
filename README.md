@@ -1,4 +1,4 @@
-# DSMeta - WEB App Filtro vendas e envio de SMS
+# DSMeta - WEB App - Filtro de vendas e envio de SMS
 
 ![ppconrado github img](https://raw.githubusercontent.com/ppconrado/bds-assets/master/img/DSMETA.png)
 
