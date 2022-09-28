@@ -1,4 +1,6 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/54ad8945-97e6-40c3-abc2-7a2b07bc62da/deploy-status)](https://app.netlify.com/sites/dsmeta-joseconrado/deploys)
+# DSMeta - WEB App - Filtro de vendas e envio de SMS
+
+![ppconrado github img](https://raw.githubusercontent.com/ppconrado/bds-assets/master/img/DSMETA.png)
 
 ## Objetivos do projeto FASE 1
 
